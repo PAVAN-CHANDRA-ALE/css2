@@ -1,0 +1,38 @@
+body{
+   background-color: aqua;
+}
+header{
+    background-color: blue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(158, 226, 11);
+    text-align: center;
+    line-height: normal;
+}
+.font
+{
+font-family:Arial, Helvetica, sans-serif;
+background-color:blue;
+color:rgb(158, 226, 11);
+text-align: center;
+
+}
+.fontsize{
+    background-color: chartreuse;
+    color:red;
+    font-size:25px;
+}
+#four{
+    background-color:blueviolet;
+    text-align: center;
+}
+#five{
+    background-color:lightcoral;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#six{
+    text-align: center;
+}
+six>table{
+    background-color:fuchsia
+}
